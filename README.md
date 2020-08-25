@@ -9,4 +9,4 @@
 - 🌱 Learning all about **Open Source**, **IoT**, **Cloud Technologies**, & **Blockchain**
 - 💬 Ping me about **Web Development**, **Branding**, **Project Management**, **IoT Development**, **Design thinking**
 - 📫 Reach me: [Linkedin Profile](https://linkedin.com/in/swapnilundage)
-- 🤖 More about me at: [swapnilunadge.ga](http://swapnilundage.ga)  `Soon to be changed to swapnilundage.tech`
+- 🤖 More about me at: [swapnilundage.ga](http://swapnilundage.ga)  `Soon to be changed to swapnilundage.tech`
