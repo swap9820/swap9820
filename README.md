@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Student/Web Developer from Mumbai, India.
+#### I'm a Student/Freelance Web Developer from Mumbai, India.
 
 - 🏢 I'm currently working at **OETD Labs**
 - ⚙️ I use regularly: `.html`, `.css`, `.js`, `.php`,   `.ino`, `.py`, `.c`
