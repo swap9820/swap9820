@@ -2,8 +2,8 @@
 
 #### I'm a Student/Freelance Web Developer from Mumbai, India.
 
-- 🏢 I'm currently working at **OETD Labs**
-- ⚙️ I use regularly: `.html`, `.css`, `.js`, `.php`,   `.ino`, `.py`, `.c`
+- 🏢 I'm currently working on Freelance Projects
+- ⚙️ I use regularly: `.html`, `.css`, `.js`, `.php`, `.ino`, `.py`, `.c`
 - 🌍 I'm mostly active within the **Web Development Communities**
 - 💅 Worked On: [Fitsap](https://www.Fitsap.in), [Robocapital](https://Robocapital.in), [JP Constructions](https://www.Thejpconstructions.com), etc…
 - 🌱 Learning all about **Open Source**, **IoT**, **Cloud Technologies**, & **Blockchain**
