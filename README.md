@@ -5,7 +5,7 @@
 - 🏢 I'm currently working at [Robocapital](https://robocapital.in)
 - ⚙️ I use regularly: `.html`, `.css`, `.js`, `.php`, `.ino`, `.py`, `.c`
 - 🌍 I'm mostly active within the **Web Development Communities**
-- 💅 Worked On: [Business Scales](https://www.businessscales.comn),[Fitsap](https://www.Fitsap.in), [Robocapital](https://Robocapital.in), [JP Constructions](https://www.Thejpconstructions.com), etc…
+- 💅 Worked On: [Business Scales](https://www.businessscales.com), [Fitsap](https://www.Fitsap.in), [Robocapital](https://Robocapital.in), [JP Constructions](https://www.Thejpconstructions.com), etc…
 - 🌱 Learning all about **Open Source**, **IoT**, **Cloud Technologies**, & **Blockchain**
 - 💬 Ping me about **Web Development**, **Branding**, **Project Management**, **IoT Development**, **Design thinking**
 - 📫 Reach me: [Linkedin Profile](https://linkedin.com/in/swapnilundage)
