@@ -10,3 +10,6 @@
 - 💬 Ping me about **Web Development**, **Branding**, **Project Management**, **IoT Development**, **Design thinking**
 - 📫 Reach me: [Linkedin Profile](https://linkedin.com/in/swapnilundage)
 - 🤖 More about me at: [swapnilundage.ga](http://swapnilundage.ga)  `Soon to be changed to swapnilundage.tech`
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=swap9820&title_color=fff&text_color=9f9f9f&bg_color=151515" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swap9820&theme=dark" alt="Stats for Swapnil"/>
